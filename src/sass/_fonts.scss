@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Mulish';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Mulish-ExtraBold'), url(~@/assets/fonts/Mulish-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Mulish';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Mulish-Regular'), url(~@/assets/fonts/Mulish-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Mulish';
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Mulish-Italic'), url(~@/assets/fonts/Mulish-Italic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'nunito-sans';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('nunito-sans.extrabold'), url(~@/assets/fonts/nunito-sans.extrabold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'nunito-sans';
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('nunito-sans.regular'), url(~@/assets/fonts/nunito-sans.regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'nunito-sans';
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local('nunito-sans.italic'), url(~@/assets/fonts/nunito-sans.italic.ttf) format('truetype');
+}
